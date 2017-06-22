@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "Skype",
-        "usecdrname": "andrew-gooner"
+        "username": "andrew-gooner"
       },
       {
         "network": "Github",

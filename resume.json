@@ -1,0 +1,290 @@
+{
+  "basics": {
+    "name": "Andrew Avdeev",
+    "label": "Full stack web developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA1YAAAAJGY2Y2Q4ZWQwLWRlMDYtNDEzNy1iNTc5LWY3MDVkZTExMzUxYw.jpg",
+    "email": "andrewww.avdeev@gmail.com",
+    "phone": "+37595418679",
+    "website": "http://andrewavdeev.com",
+    "summary": "I'm a full stack web developer. I love React/ReactNative, Redux, ES6+ and other new technologies. I Have 6 years of back-end and front-end development experience.",
+    "location": {
+      "address": "Matusevicha street, 68",
+      "postalCode": "220055",
+      "city": "Minsk",
+      "countryCode": "BY",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Skype",
+        "usecdrname": "andrew-gooner"
+      },
+      {
+        "network": "Github",
+        "username": "aandrewww",
+        "url": "https://github.com/aandrewww"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "andrewavdeev",
+        "url": "https://www.linkedin.com/in/andrewavdeev/"
+      },
+      {
+        "network": "Twitter",
+        "username": "AndrewwGooner",
+        "url": "https://twitter.com/AndrewwGooner"
+      },
+      {
+        "network": "Facebook",
+        "username": "andrew.avdeev.3",
+        "url": "https://www.facebook.com/andrew.avdeev.3"
+      },
+      {
+        "network": "Vkontakte",
+        "username": "aandreeww",
+        "url": "https://vk.com/aandreeww"
+      },
+      {
+        "network": "Instagram",
+        "username": "aandreewww",
+        "url": "https://www.instagram.com/aandreewww/"
+      },
+      {
+        "network": "Tumblr",
+        "username": "andrewwwavdeev",
+        "url": "http://andrewwwavdeev.tumblr.com/"
+      },
+      {
+        "network": "Flickr",
+        "username": "andrewwwavdeev",
+        "url": "https://www.flickr.com/photos/andrewwwavdeev/"
+      },
+      {
+        "network": "YouTube",
+        "username": "andrewwwavdeev",
+        "url": "https://www.youtube.com/user/andrewwwavdeev"
+      },
+      {
+        "network": "LiveLib",
+        "username": "aandrewww",
+        "url": "https://www.livelib.ru/reader/aandrewww"
+      },
+      {
+        "network": "KinoPoisk",
+        "username": "aandrewww",
+        "url": "https://www.kinopoisk.ru/user/2741742/"
+      },
+      {
+        "network": "AngelList",
+        "username": "andrew-avdeev-1",
+        "url": "https://angel.co/andrew-avdeev-1"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "andrew-avdeev",
+        "url": "http://stackoverflow.com/users/3324514/andrew-avdeev"
+      },
+      {
+        "network": "Product Hunt",
+        "username": "andrewww",
+        "url": "https://www.producthunt.com/@andrewww"
+      },
+      {
+        "network": "Kickstarter",
+        "username": "1137852450ki",
+        "url": "https://www.kickstarter.com/profile/1137852450ki"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Arsenal Belarus community",
+      "position": "Founder and lead developer of the official Belarusian Arsenal fan community.",
+      "website": "http://fc-arsenal.by/",
+      "startDate": "2011-01-01",
+      "endDate": "2014-09-01",
+      "summary": "Arsenal is official Belarusian fan-site of one of the greatest UK football teams. It was developed to read news, watch games, see statistics and make bets, discuss the games and players etc.",
+      "highlights": [
+        "Design and prototyping",
+        "SEO support",
+        "Frontend development",
+        "Backend development",
+        "Database support and maintenance",
+        "Content handling",
+        "Server support and setting"
+      ]
+    },
+    {
+      "company": "Stone Labs Ltd",
+      "position": "Full Stack Web Developer",
+      "website": "http://stone-labs.com/",
+      "startDate": "2013-09-01",
+      "endDate": "2014-09-01",
+      "summary": "Stone Labs is using best practices in Data Driven Approach in order to set maximum efficiency of every business process.",
+      "highlights": [
+        "Backend development",
+        "Frontend development",
+        "Database support and maintenance ",
+        "Projects estimation( at the sale stage)",
+        "Regular meetings"
+      ]
+    },
+    {
+      "company": "PeopleBank Australia",
+      "position": "Full Stack Web Developer",
+      "website": "https://www.peoplebank.com.au/",
+      "startDate": "2014-09-01",
+      "endDate": "2015-09-01",
+      "summary": "I developed one of the biggest Australian online work platform, where businesses and independent professionals connect and collaborate",
+      "highlights": [
+        "Servers support and setting",
+        "Project deployment",
+        "Backend development",
+        "Frontend development",
+        "Database support and maintenance",
+        "Regular meetings",
+        "Reports Writing",
+        "High load optimization"
+      ]
+    },
+    {
+      "company": "Monterosa",
+      "position": "Full Stack Web Developer",
+      "website": "http://www.monterosa.co/",
+      "startDate": "2015-09-01",
+      "summary": "Monterosa provides technology and ideas that shape the future of fan interaction across entertainment and sport",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Belarusian State University of Informatics and Radio electronics",
+      "area": "Information technologies engineer",
+      "studyType": "Bachelor",
+      "startDate": "2011-09-01",
+      "endDate": "2016-09-01",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "Advanced/Expert",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "XML",
+        "Javascript",
+        "Bootstrap",
+        "Less",
+        "SASS",
+        "Backbone",
+        "Jquery",
+        "Marionette",
+        "Meteor",
+        "Underscore/Lodash",
+        "Angular",
+        "ES6",
+        "React",
+        "Redux"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Advanced/Expert",
+      "keywords": [
+        "Node.js",
+        "PHP",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "PostgreSQL",
+        "Yii",
+        "Laravel",
+        "Silex",
+        "Express",
+        "Koa",
+        "Gearman",
+        "SocketIO"
+      ]
+    },
+    {
+      "name": "Mobile development",
+      "level": "Advanced",
+      "keywords": [
+        "Cordova/PhoneGap",
+        "Ionic",
+        "React Native"
+      ]
+    },
+    {
+      "name": "Desktop development",
+      "level": "Intermediate",
+      "keywords": [
+        "Electron"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Ubuntu",
+        "CentOS",
+        "Docker",
+        "Vagrant",
+        "Ansible",
+        "Shell",
+        "Capistrano",
+        "Nginx",
+        "Apache",
+        "GitLab",
+        "Jenkins",
+        "Amazon web services",
+        "DigitalOcean"
+      ]
+    },
+    {
+      "name": "Software & Tools",
+      "level": "Advanced",
+      "keywords": [
+        "Git",
+        "Composer",
+        "GruntJS",
+        "GulpJS",
+        "Webpack",
+        "Bower",
+        "NPM",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Sketch"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Soccer",
+      "keywords": []
+    },
+    {
+      "name": "Travelling",
+      "keywords": []
+    },
+    {
+      "name": "Cars",
+      "keywords": []
+    }
+  ],
+  "references": []
+}

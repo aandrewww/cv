@@ -2,11 +2,11 @@
   "basics": {
     "name": "Andrew Avdeev",
     "label": "Full stack web developer",
-    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA1YAAAAJGY2Y2Q4ZWQwLWRlMDYtNDEzNy1iNTc5LWY3MDVkZTExMzUxYw.jpg",
+    "picture": "https://pp.userapi.com/c626126/v626126371/67dee/Y5Hcd-bOG0o.jpg",
     "email": "andrewww.avdeev@gmail.com",
     "phone": "+37595418679",
     "website": "http://andrewavdeev.com",
-    "summary": "I'm a full stack web developer. I love React/ReactNative, Redux, ES6+ and other new technologies. I Have 6 years of back-end and front-end development experience.",
+    "summary": "I'm a full stack web developer and software architect with experience in team management. I Have 7 years of back-end and front-end development experience.",
     "location": {
       "address": "Matusevicha street, 68",
       "postalCode": "220055",
@@ -23,6 +23,11 @@
         "network": "Github",
         "username": "aandrewww",
         "url": "https://github.com/aandrewww"
+      },
+      {
+        "network": "Github",
+        "username": "andrewww",
+        "url": "https://www.npmjs.com/~andrewww"
       },
       {
         "network": "LinkedIn",
@@ -65,9 +70,9 @@
         "url": "https://www.youtube.com/user/andrewwwavdeev"
       },
       {
-        "network": "LiveLib",
-        "username": "aandrewww",
-        "url": "https://www.livelib.ru/reader/aandrewww"
+        "network": "Goodreads",
+        "username": "andrew-avdeev",
+        "url": "https://www.goodreads.com/user/show/26864332-andrew-avdeev"
       },
       {
         "network": "KinoPoisk",
@@ -88,11 +93,6 @@
         "network": "Product Hunt",
         "username": "andrewww",
         "url": "https://www.producthunt.com/@andrewww"
-      },
-      {
-        "network": "Kickstarter",
-        "username": "1137852450ki",
-        "url": "https://www.kickstarter.com/profile/1137852450ki"
       }
     ]
   },
@@ -150,10 +150,44 @@
     {
       "company": "Monterosa",
       "position": "Full Stack Web Developer",
-      "website": "http://www.monterosa.co/",
+      "website": "https://www.monterosa.co/",
       "startDate": "2015-09-01",
+      "endDate": "2017-09-01",
       "summary": "Monterosa provides technology and ideas that shape the future of fan interaction across entertainment and sport",
-      "highlights": []
+      "highlights": [
+        "Project deployment",
+        "Backend development",
+        "Frontend development",
+        "Mobile development",
+        "Database support and maintenance",
+        "Regular meetings",
+        "High load optimization",
+        "Job interviews"
+      ]
+    },
+    {
+      "company": "Scorum",
+      "position": "Head Of Web Development",
+      "website": "https://scorum.com/",
+      "startDate": "2017-07-01",
+      "summary": "Scorum is a pioneering Blockchain powered media platform, that rewards content creators and curators.",
+      "highlights": [
+        "Servers support and setting",
+        "Project deployment",
+        "Backend development",
+        "Frontend development",
+        "Database support and maintenance",
+        "Regular meetings",
+        "Reports Writing",
+        "High load optimization",
+        "Projects estimation",
+        "Job interviews",
+        "Code-review",
+        "Designing the architecture",
+        "Choosing the technologies for the implementation",
+        "Support test team",
+        "Leadership"
+      ]
     }
   ],
   "education": [
@@ -183,12 +217,12 @@
         "Backbone",
         "Jquery",
         "Marionette",
-        "Meteor",
         "Underscore/Lodash",
         "Angular",
         "ES6",
         "React",
-        "Redux"
+        "Redux",
+        "RxJS"
       ]
     },
     {
@@ -206,6 +240,8 @@
         "Silex",
         "Express",
         "Koa",
+        "Hapi.js",
+        "Meteor",
         "Gearman",
         "SocketIO"
       ]
@@ -241,7 +277,12 @@
         "Apache",
         "GitLab",
         "Jenkins",
+        "Elasticsearch",
+        "Logstash",
+        "Kibana",
+        "Terraform",
         "Amazon web services",
+        "Microsoft Azure",
         "DigitalOcean"
       ]
     },
@@ -254,8 +295,10 @@
         "GruntJS",
         "GulpJS",
         "Webpack",
+        "Parcel",
         "Bower",
         "NPM",
+        "Yarn",
         "Adobe Photoshop",
         "Adobe Illustrator",
         "Sketch"

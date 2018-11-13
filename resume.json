@@ -105,13 +105,13 @@
       "endDate": "2014-09-01",
       "summary": "Arsenal is official Belarusian fan-site of one of the greatest UK football teams. It was developed to read news, watch games, see statistics and make bets, discuss the games and players etc.",
       "highlights": [
-        "Design and prototyping",
+        "Design and prototyping (Photoshop)",
         "SEO support",
-        "Frontend development",
-        "Backend development",
-        "Database support and maintenance",
-        "Content handling",
-        "Server support and setting"
+        "Frontend development (HTML4, CSS2-3, VanillaJS, jQuery)",
+        "Backend development (PHP)",
+        "Database support and maintenance (MySQL)",
+        "Content handling (DLE CMS)",
+        "Server support and setting (CentOS, Apache)"
       ]
     },
     {
@@ -122,10 +122,10 @@
       "endDate": "2014-09-01",
       "summary": "Stone Labs is using best practices in Data Driven Approach in order to set maximum efficiency of every business process.",
       "highlights": [
-        "Backend development",
-        "Frontend development",
-        "Database support and maintenance ",
-        "Projects estimation( at the sale stage)",
+        "Backend development (PHP, Yii1, Silex, NodeJS, Express)",
+        "Frontend development (VanillaJS, jQuery, jQuery modules, LESS, SASS)",
+        "Database support and maintenance (MySQL, MongoDB)",
+        "Projects estimation (at the sale stage)",
         "Regular meetings"
       ]
     },
@@ -135,16 +135,16 @@
       "website": "https://www.peoplebank.com.au/",
       "startDate": "2014-09-01",
       "endDate": "2015-09-01",
-      "summary": "I developed one of the biggest Australian online work platform, where businesses and independent professionals connect and collaborate",
+      "summary": "I developed one of the biggest Australian online work platform, where businesses and independent professionals connect and collaborate. The Team consisted of 1 PM, 1 Full Stack Dev, 1 QA.",
       "highlights": [
-        "Servers support and setting",
-        "Project deployment",
-        "Backend development",
-        "Frontend development",
-        "Database support and maintenance",
-        "Regular meetings",
+        "Servers support and setting (CentOS, Vagrant, Shell Scripts, Nginx)",
+        "Project deployment (Capistrano, Git hooks, support multiple environments)",
+        "Backend development (PHP, Yii1, Laravel, Gearman, NodeJS)",
+        "Frontend development (VanillaJS, jQuery, jQuery modules, LESS, SASS)",
+        "Database support and maintenance (MySQL)",
+        "Regular meetings with manager from Australia",
         "Reports Writing",
-        "High load optimization"
+        "High load optimization & testing (Apache Bench)"
       ]
     },
     {
@@ -153,14 +153,15 @@
       "website": "https://www.monterosa.co/",
       "startDate": "2015-09-01",
       "endDate": "2017-09-01",
-      "summary": "Monterosa provides technology and ideas that shape the future of fan interaction across entertainment and sport",
+      "summary": "Monterosa provides technology and ideas that shape the future of fan interaction across entertainment and sport. I developed an internal product, web and mobile applications.",
       "highlights": [
-        "Project deployment",
-        "Backend development",
-        "Frontend development",
-        "Mobile development",
-        "Database support and maintenance",
-        "Regular meetings",
+        "Work in a team consisted of 20 people (The Frontend team consisted of 8 team members)",
+        "Backend development (NodeJS, PM2, Koa, Express, Socket.IO, Mocha, Chai, PHP5, Silex, Symfony, Doctrine ORM, Contentfull CMS, Janrain (customer identity and access management), SSO, Facebook Messenger API, Graph API)",
+        "Frontend development (Backbone.js, Marionette.js, CoffeeScript, React, Redux, Underscore, Lodash, LESS, SASS, BEM)",
+        "Mobile development (React Native (including complex animations) – 5 projects)",
+        "Database support and maintenance (MySQL (large subqueries + MySQL Transactions), RedisDB (almost all commands were used))",
+        "Project deployment (Puppet, Vagrant)",
+        "Work with AWS services (S3, CloudFront, ELB, SNS)",
         "High load optimization",
         "Job interviews"
       ]
@@ -172,21 +173,22 @@
       "startDate": "2017-07-01",
       "summary": "Scorum is a pioneering Blockchain powered media platform, that rewards content creators and curators.",
       "highlights": [
-        "Servers support and setting",
-        "Project deployment",
-        "Backend development",
-        "Frontend development",
-        "Database support and maintenance",
+        "Servers support and setting (Ubuntu, Microsoft Azure, DigitalOcean, Blockchain Nodes, Terraform, Shell Scripts, Docker, Nginx, Backups, Firewals, DNS settings, Zabbix, Grafana, Alerting, ElasticSearch, Logstash, Kibana, security settings)",
+        "Project deployment (Ansible, Jenkins, Gitlab, deployment checklists)",
+        "Backend development (NodeJS, Koa2, Express (for React SSR), HapiJS, Twilio API, SendPulse SMTP, …)",
+        "Frontend development (React, Redux, RxJS, Ramda, Crypto, Jest, Flow, SASS) ",
+        "Database support and maintenance (MySQL, MongoDB, Redis)",
         "Regular meetings",
         "Reports Writing",
-        "High load optimization",
+        "High load optimization & testing (Apache JMeter, Tsung)",
         "Projects estimation",
         "Job interviews",
         "Code-review",
-        "Designing the architecture",
+        "Designing the architecture (sequence diagrams, flowcharts, C4 model for software architecture)",
         "Choosing the technologies for the implementation",
         "Support test team",
-        "Leadership"
+        "Leadership",
+        "Managing team (more then 10 developers)"
       ]
     }
   ],

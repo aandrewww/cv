@@ -220,11 +220,12 @@
         "Jquery",
         "Marionette",
         "Underscore/Lodash",
-        "Angular",
+        "Ramda",
         "ES6",
         "React",
         "Redux",
-        "RxJS"
+        "RxJS",
+        "Mobx"
       ]
     },
     {
@@ -233,6 +234,7 @@
       "keywords": [
         "Node.js",
         "PHP",
+        "Go",
         "MongoDB",
         "MySQL",
         "Redis",
@@ -282,6 +284,8 @@
         "Elasticsearch",
         "Logstash",
         "Kibana",
+        "Zabbix",
+        "Grafana",
         "Terraform",
         "Amazon web services",
         "Microsoft Azure",

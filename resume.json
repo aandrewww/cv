@@ -5,7 +5,7 @@
     "picture": "https://pp.userapi.com/c626126/v626126371/67dee/Y5Hcd-bOG0o.jpg",
     "email": "andrewww.avdeev@gmail.com",
     "phone": "+37595418679",
-    "website": "http://andrewavdeev.com",
+    "url": "https://andrewavdeev.com",
     "summary": "I'm a full stack web developer and software architect with experience in team management. I Have 7 years of back-end and front-end development experience.",
     "location": {
       "address": "Matusevicha street, 68",
@@ -16,8 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Skype",
-        "username": "andrew-gooner"
+        "network": "LinkedIn",
+        "username": "andrewavdeev",
+        "url": "https://www.linkedin.com/in/andrewavdeev/"
       },
       {
         "network": "Github",
@@ -25,14 +26,14 @@
         "url": "https://github.com/aandrewww"
       },
       {
-        "network": "Github",
+        "network": "NPM",
         "username": "andrewww",
         "url": "https://www.npmjs.com/~andrewww"
       },
       {
-        "network": "LinkedIn",
-        "username": "andrewavdeev",
-        "url": "https://www.linkedin.com/in/andrewavdeev/"
+        "network": "Goodreads",
+        "username": "andrew-avdeev",
+        "url": "https://www.goodreads.com/user/show/26864332-andrew-avdeev"
       },
       {
         "network": "Twitter",
@@ -43,6 +44,10 @@
         "network": "Facebook",
         "username": "andrew.avdeev.3",
         "url": "https://www.facebook.com/andrew.avdeev.3"
+      },
+      {
+        "network": "Skype",
+        "username": "andrew-gooner"
       },
       {
         "network": "Vkontakte",
@@ -70,11 +75,6 @@
         "url": "https://www.youtube.com/user/andrewwwavdeev"
       },
       {
-        "network": "Goodreads",
-        "username": "andrew-avdeev",
-        "url": "https://www.goodreads.com/user/show/26864332-andrew-avdeev"
-      },
-      {
         "network": "KinoPoisk",
         "username": "aandrewww",
         "url": "https://www.kinopoisk.ru/user/2741742/"
@@ -98,80 +98,13 @@
   },
   "work": [
     {
-      "company": "Arsenal Belarus community",
-      "position": "Founder and lead developer of the official Belarusian Arsenal fan community.",
-      "website": "http://fc-arsenal.by/",
-      "startDate": "2011-01-01",
-      "endDate": "2014-09-01",
-      "summary": "Arsenal is official Belarusian fan-site of one of the greatest UK football teams. It was developed to read news, watch games, see statistics and make bets, discuss the games and players etc.",
-      "highlights": [
-        "Design and prototyping (Photoshop)",
-        "SEO support",
-        "Frontend development (HTML4, CSS2-3, VanillaJS, jQuery)",
-        "Backend development (PHP)",
-        "Database support and maintenance (MySQL)",
-        "Content handling (DLE CMS)",
-        "Server support and setting (CentOS, Apache)"
-      ]
-    },
-    {
-      "company": "Stone Labs Ltd",
-      "position": "Full Stack Web Developer",
-      "website": "http://stone-labs.com/",
-      "startDate": "2013-09-01",
-      "endDate": "2014-09-01",
-      "summary": "Stone Labs is using best practices in Data Driven Approach in order to set maximum efficiency of every business process.",
-      "highlights": [
-        "Backend development (PHP, Yii1, Silex, NodeJS, Express)",
-        "Frontend development (VanillaJS, jQuery, jQuery modules, LESS, SASS)",
-        "Database support and maintenance (MySQL, MongoDB)",
-        "Projects estimation (at the sale stage)",
-        "Regular meetings"
-      ]
-    },
-    {
-      "company": "PeopleBank Australia",
-      "position": "Full Stack Web Developer",
-      "website": "https://www.peoplebank.com.au/",
-      "startDate": "2014-09-01",
-      "endDate": "2015-09-01",
-      "summary": "I developed one of the biggest Australian online work platform, where businesses and independent professionals connect and collaborate. The Team consisted of 1 PM, 1 Full Stack Dev, 1 QA.",
-      "highlights": [
-        "Servers support and setting (CentOS, Vagrant, Shell Scripts, Nginx)",
-        "Project deployment (Capistrano, Git hooks, support multiple environments)",
-        "Backend development (PHP, Yii1, Laravel, Gearman, NodeJS)",
-        "Frontend development (VanillaJS, jQuery, jQuery modules, LESS, SASS)",
-        "Database support and maintenance (MySQL)",
-        "Regular meetings with manager from Australia",
-        "Reports Writing",
-        "High load optimization & testing (Apache Bench)"
-      ]
-    },
-    {
-      "company": "Monterosa",
-      "position": "Full Stack Web Developer",
-      "website": "https://www.monterosa.co/",
-      "startDate": "2015-09-01",
-      "endDate": "2017-09-01",
-      "summary": "Monterosa provides technology and ideas that shape the future of fan interaction across entertainment and sport. I developed an internal product, web and mobile applications.",
-      "highlights": [
-        "Work in a team consisted of 20 people (The Frontend team consisted of 8 team members)",
-        "Backend development (NodeJS, PM2, Koa, Express, Socket.IO, Mocha, Chai, PHP5, Silex, Symfony, Doctrine ORM, Contentfull CMS, Janrain (customer identity and access management), SSO, Facebook Messenger API, Graph API)",
-        "Frontend development (Backbone.js, Marionette.js, CoffeeScript, React, Redux, Underscore, Lodash, LESS, SASS, BEM)",
-        "Mobile development (React Native (including complex animations) – 5 projects)",
-        "Database support and maintenance (MySQL (large subqueries + MySQL Transactions), RedisDB (almost all commands were used))",
-        "Project deployment (Puppet, Vagrant)",
-        "Work with AWS services (S3, CloudFront, ELB, SNS)",
-        "High load optimization",
-        "Job interviews"
-      ]
-    },
-    {
-      "company": "Scorum",
+      "name": "Scorum",
+      "location": "Belarus",
+      "description": "Scorum is a pioneering Blockchain powered media platform, that rewards content creators and curators.",
       "position": "Head Of Web Development",
-      "website": "https://scorum.com/",
+      "url": "https://scorum.com/",
       "startDate": "2017-07-01",
-      "summary": "Scorum is a pioneering Blockchain powered media platform, that rewards content creators and curators.",
+      "summary": "",
       "highlights": [
         "Servers support and setting (Ubuntu, Microsoft Azure, DigitalOcean, Blockchain Nodes, Terraform, Shell Scripts, Docker, Nginx, Backups, Firewals, DNS settings, Zabbix, Grafana, Alerting, ElasticSearch, Logstash, Kibana, security settings)",
         "Project deployment (Ansible, Jenkins, Gitlab, deployment checklists)",
@@ -189,6 +122,83 @@
         "Support test team",
         "Leadership",
         "Managing team (more then 10 developers)"
+      ]
+    },
+    {
+      "name": "Monterosa",
+      "location": "Belarus",
+      "description": "Monterosa provides technology and ideas that shape the future of fan interaction across entertainment and sport.",
+      "position": "Full Stack Web Developer",
+      "url": "https://www.monterosa.co/",
+      "startDate": "2015-09-01",
+      "endDate": "2017-09-01",
+      "summary": "I developed an internal product, web and mobile applications.",
+      "highlights": [
+        "Work in a team consisted of 20 people (The Frontend team consisted of 8 team members)",
+        "Backend development (NodeJS, PM2, Koa, Express, Socket.IO, Mocha, Chai, PHP5, Silex, Symfony, Doctrine ORM, Contentfull CMS, Janrain (customer identity and access management), SSO, Facebook Messenger API, Graph API)",
+        "Frontend development (Backbone.js, Marionette.js, CoffeeScript, React, Redux, Underscore, Lodash, LESS, SASS, BEM)",
+        "Mobile development (React Native (including complex animations) – 5 projects)",
+        "Database support and maintenance (MySQL (large subqueries + MySQL Transactions), RedisDB (almost all commands were used))",
+        "Project deployment (Puppet, Vagrant)",
+        "Work with AWS services (S3, CloudFront, ELB, SNS)",
+        "High load optimization",
+        "Job interviews"
+      ]
+    },
+    {
+      "name": "PeopleBank Australia",
+      "location": "Belarus",
+      "description": "",
+      "position": "Full Stack Web Developer",
+      "url": "https://www.peoplebank.com.au/",
+      "startDate": "2014-09-01",
+      "endDate": "2015-09-01",
+      "summary": "I developed one of the biggest Australian online work platform, where businesses and independent professionals connect and collaborate. The Team consisted of 1 PM, 1 Full Stack Dev, 1 QA.",
+      "highlights": [
+        "Servers support and setting (CentOS, Vagrant, Shell Scripts, Nginx)",
+        "Project deployment (Capistrano, Git hooks, support multiple environments)",
+        "Backend development (PHP, Yii1, Laravel, Gearman, NodeJS)",
+        "Frontend development (VanillaJS, jQuery, jQuery modules, LESS, SASS)",
+        "Database support and maintenance (MySQL)",
+        "Regular meetings with manager from Australia",
+        "Reports Writing",
+        "High load optimization & testing (Apache Bench)"
+      ]
+    },
+    {
+      "name": "Stone Labs Ltd",
+      "location": "Belarus",
+      "description": "Stone Labs is using best practices in Data Driven Approach in order to set maximum efficiency of every business process.",
+      "position": "Full Stack Web Developer",
+      "url": "http://stone-labs.com/",
+      "startDate": "2013-09-01",
+      "endDate": "2014-09-01",
+      "summary": "",
+      "highlights": [
+        "Backend development (PHP, Yii1, Silex, NodeJS, Express)",
+        "Frontend development (VanillaJS, jQuery, jQuery modules, LESS, SASS)",
+        "Database support and maintenance (MySQL, MongoDB)",
+        "Projects estimation (at the sale stage)",
+        "Regular meetings"
+      ]
+    },
+    {
+      "name": "Arsenal Belarus community",
+      "location": "Belarus",
+      "description": "Arsenal is official Belarusian fan-site of one of the greatest UK football teams.",
+      "position": "Founder and lead developer of the official Belarusian Arsenal fan community.",
+      "url": "http://fc-arsenal.by/",
+      "startDate": "2011-01-01",
+      "endDate": "2014-09-01",
+      "summary": "It was developed to read news, watch games, see statistics and make bets, discuss the games and players etc.",
+      "highlights": [
+        "Design and prototyping (Photoshop)",
+        "SEO support",
+        "Frontend development (HTML4, CSS2-3, VanillaJS, jQuery)",
+        "Backend development (PHP)",
+        "Database support and maintenance (MySQL)",
+        "Content handling (DLE CMS)",
+        "Server support and setting (CentOS, Apache)"
       ]
     }
   ],
@@ -289,7 +299,8 @@
         "Terraform",
         "Amazon web services",
         "Microsoft Azure",
-        "DigitalOcean"
+        "DigitalOcean",
+        "Blockchain Nodes"
       ]
     },
     {
